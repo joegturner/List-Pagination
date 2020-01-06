@@ -1,7 +1,7 @@
 # Techdegree-Project-2
 >TD Proj 2 - List Pagination and Filtering <BR>
-*Added Pagination and Search functionality for a list of students
-*Going for "Exceeds Expectations"
+- Added Pagination and Search functionality for a list of students
+- Going for "Exceeds Expectations"
 
 ## Authors
 >Joe Turner / jgturner
@@ -15,6 +15,6 @@
 - Page will notify user if Search was unsuccessful
 
 ## Skills, Techniques, Process
-*Skills: Javascript programming. HTML and CSS files were unedited from original copy
-*Techniques: included DOM manipulation and customizing event handlers
+- Skills: Javascript programming. HTML and CSS files were unedited from original copy
+- Techniques: included DOM manipulation and customizing event handlers
 
