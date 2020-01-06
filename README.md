@@ -4,10 +4,10 @@
 - Going for "Exceeds Expectations"
 
 ## Authors
->Joe Turner / jgturner
+- Joe Turner / jgturner
 
 ## Revision History
->Rev 0, 1-5-2020: submission for peer review on Slack
+- Rev 0, 1-5-2020: submission for peer review on Slack
 
 ## Going for "Exceeds Expectations"
 - Added a Search "input" and "button"
