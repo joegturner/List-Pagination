@@ -6,7 +6,7 @@ FSJS project 2 - List Filter and Pagination
 // Study guide for this project - https://drive.google.com/file/d/1OD1diUsTMdpfMDv677TfL1xO2CEkykSz/view?usp=sharing
 // by: Joe Turner
 // Going for Exceeds!
-// Rev 1: 1-5-2020
+// Rev 0: 1-5-2020 (peer review submission on Slack)
 
 
 /*** Global Variables ***/
