@@ -5,7 +5,7 @@
 
 
 # Authors
-Joe Turner / jgturner
+## Joe Turner / jgturner
 
 # Going for "Exceeds Expectations"
  Added a Search "input" and "button"
